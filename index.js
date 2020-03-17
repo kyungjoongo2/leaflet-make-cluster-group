@@ -1,4 +1,4 @@
 
-const MarkerClusterGroup = require('././MarkerClusterGroup')
+const MarkerClusterGroup = require('./MarkerClusterGroup')
 
 export default MarkerClusterGroup;
