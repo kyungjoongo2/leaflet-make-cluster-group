@@ -40,7 +40,8 @@ import MarkerClusterGroup from 'leaflet-make-cluster-group'``
                                 </Marker>
 	</MarkerClusterGroup>
 	
-	======
+	
+	
 	
 made with love ❤ ^^
 
