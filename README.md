@@ -1,6 +1,7 @@
 
 
 
+
 This plug-in is a library that can use clusters in react-leaflet.
 
 
