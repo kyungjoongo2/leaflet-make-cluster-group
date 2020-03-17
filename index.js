@@ -1,4 +1,4 @@
-"use strict";
 
+const MarkerClusterGroup = require('././MarkerClusterGroup')
 
-export default from './MarkerClusterGroup'
+export default MarkerClusterGroup;
