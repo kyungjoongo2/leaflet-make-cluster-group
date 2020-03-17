@@ -1,6 +1,6 @@
 {
-  "name": "leaflet-make-cluster-group",
-  "version": "0.3.3",
+  "name": "react-leaflet-make-cluster-group",
+  "version": "0.3.5",
   "author": "jessica kyungjoongo",
    "repository": {
     "type": "git",
@@ -9,6 +9,6 @@
   "dependencies": {
    "react-leaflet": "2.6.3",
    "leaflet": "1.6.0"
-  
+
   }
 }
