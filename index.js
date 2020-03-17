@@ -1,4 +1,1 @@
-
-const MarkerClusterGroup = require('./MarkerClusterGroup')
-
-export default MarkerClusterGroup;
+module.exports = require('./MarkerClusterGroup')

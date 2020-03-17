@@ -8,13 +8,11 @@ This is a working version of react-leaflet-markercluster in "react-leaflet": "2.
 
 
 ### usage ####
+``
+import {MarkerClusterGroup} from 'leaflet-make-cluster-group'``
 
-import MarkerClusterGroup from 'leaflet-make-cluster-group'
+							<MarkerClusterGroup>
 
-........
-
-
-  <MarkerClusterGroup>
                                 <Marker
 
                                     position={[37.2411, 127.1776]}
