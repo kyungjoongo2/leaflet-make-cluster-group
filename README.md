@@ -9,9 +9,9 @@ This is a working version of react-leaflet-markercluster in "react-leaflet": "2.
 
 ### usage ####
 ``
-import {MarkerClusterGroup} from 'leaflet-make-cluster-group'``
+import MarkerClusterGroup from 'leaflet-make-cluster-group'``
 
-							<MarkerClusterGroup>
+	<MarkerClusterGroup>
 
                                 <Marker
 
@@ -35,5 +35,5 @@ import {MarkerClusterGroup} from 'leaflet-make-cluster-group'``
                                 >
                                     <Popup>성남 고경준.</Popup>
                                 </Marker>
-                            </MarkerClusterGroup>
+	</MarkerClusterGroup>
 
