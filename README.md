@@ -12,8 +12,9 @@ This is a working version of react-leaflet-markercluster in "react-leaflet": "2.
 
 ### usage ####
 ``
-import MarkerClusterGroup from 'leaflet-make-cluster-group'
-import 'leaflet-make-cluster-group/LeafletMakeCluster.css'
+import MarkerClusterGroup from 'leaflet-make-cluster-group'``
+
+``import 'leaflet-make-cluster-group/LeafletMakeCluster.css'
 ``
 
 	<MarkerClusterGroup>
